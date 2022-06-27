@@ -1,2 +1,2 @@
-# ola mundo
- primeirp repositorio versionamento
+# Olá, Mundo!
+ Primeiro repositorio da aula de Git e GitHub
